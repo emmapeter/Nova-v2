@@ -1,0 +1,16 @@
+# Already in your .venv (used by the original main.py)
+sounddevice
+scipy
+SpeechRecognition
+pyttsx3
+numpy
+ollama
+
+# New
+psutil
+requests
+pillow        # screenshots
+pyautogui     # typing, shortcuts, scrolling
+pywinauto     # reliable button clicking / window focus (Windows)
+# Optional, for fully offline speech recognition:
+# vosk

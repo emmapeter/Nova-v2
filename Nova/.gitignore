@@ -1,0 +1,10 @@
+.venv/
+.env
+__pycache__/
+logs/
+trash/
+voice.wav
+memory.json
+memories.json
+activity.json
+config.json
